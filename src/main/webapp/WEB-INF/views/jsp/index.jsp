@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To Greens Technologies, perumbakkam, chennai.</h2>
+			<h3>Contact @ +91-9790742578 ,+91-9840805674</h3>
 		</div>	
 	</div>
 
